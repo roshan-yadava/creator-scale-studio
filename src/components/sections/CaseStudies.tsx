@@ -6,7 +6,7 @@ const caseStudies = [
   {
     name: "Chirag Sharma",
     title: "Makeup Artist",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
+    image: "/lovable-uploads/185b692a-63b5-4d1f-a121-6f49ef43b6cb.png",
     instagramLink: "https://instagram.com/chiragsharma",
     results: {
       instagram: "486K → 830K+",
